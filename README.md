@@ -4,4 +4,4 @@
 - **NIM**  : F1D022137  
 
 ## Screenshot Output
-![Screenshot Output](Screenshot 2025-09-08 160933.png)
+![Screenshot Output](./Screenshot%202025-09-08%20160933.png)
